@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new techs and solving real world problems 
 - 🌱 I’m currently learning Grafana, Prmotheus, Superset and MongoDB
 - 💞️ I’m looking to collaborate on Backend Development and prod support
-- 📫 How to reach me - ##jayakumar.n@allen.in
+- 📫 How to reach me - jayakumar.n@allen.in
 - 😄 Pronouns: Jay
 - ⚡ Fun fact: - Not All Developers do Coding 
 
